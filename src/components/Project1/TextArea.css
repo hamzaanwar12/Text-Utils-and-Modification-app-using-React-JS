@@ -1,0 +1,27 @@
+div.alignment{
+    display: flex;
+    justify-content: space-around;
+}
+
+h1{
+    margin-top: 1.2rem;
+    text-align: justify;
+}
+
+div.subContainer{
+    text-align: justify;
+}
+.subContainer h3,.subContainer p{
+    text-align: left;
+}
+ul{
+    width: 45%;
+    margin: auto;
+    border: 2px solid black;
+}
+textarea{
+    outline: none;
+}
+i{
+    color:  white;
+}

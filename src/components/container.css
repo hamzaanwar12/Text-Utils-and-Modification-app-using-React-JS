@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+  }
+  .blank{
+    background-color: brown;
+    color: burlywood;
+    display: flex;
+    align-self: center;
+    width: 25%;
+    margin: auto;
+    height: 30%;
+    text-align: center;
+    margin-top: 12rem;
+    border-radius: 2rem;
+    min-height: 12rem;
+  }
+  
+  .blank div {
+    display: block;
+  }
+  
+  .blank h1{
+    text-align: center;
+    width: 95%;
+    margin-left: 2.5rem;
+  }
